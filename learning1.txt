@@ -1,3 +1,6 @@
 I've done this task already but I kept messing up. So I 
 figured I'd do it one more time to ensure I know what 
-I am doing. 
+I am doing.
+I am learning Git fundamentals.
+Git tracks every change I make.
+I can commit my work to save progress. 
